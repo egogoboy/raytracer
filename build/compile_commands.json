@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/egogoboy/my_projects/RayTracer/build",
+  "command": "/usr/bin/c++  -I/home/egogoboy/my_projects/RayTracer/contrib/catch -I/home/egogoboy/my_projects/RayTracer/util  -Wall -Wextra -Wpedantic -g -std=gnu++20 -o CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o -c /home/egogoboy/my_projects/RayTracer/contrib/catch/catch_main.cpp",
+  "file": "/home/egogoboy/my_projects/RayTracer/contrib/catch/catch_main.cpp",
+  "output": "CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o"
+},
+{
+  "directory": "/home/egogoboy/my_projects/RayTracer/build/debug",
+  "command": "/usr/bin/c++ -DTASK_DIR=\\\"/home/egogoboy/my_projects/RayTracer/debug/\\\" -I/home/egogoboy/my_projects/RayTracer/util -I/home/egogoboy/my_projects/RayTracer/debug -I/home/egogoboy/my_projects/RayTracer/debug/../geometry -I/home/egogoboy/my_projects/RayTracer/debug/../reader -I/home/egogoboy/my_projects/RayTracer/debug/../raytracer -I/home/egogoboy/my_projects/RayTracer/contrib/catch  -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/test_raytracer_debug.dir/test.cpp.o -c /home/egogoboy/my_projects/RayTracer/debug/test.cpp",
+  "file": "/home/egogoboy/my_projects/RayTracer/debug/test.cpp",
+  "output": "debug/CMakeFiles/test_raytracer_debug.dir/test.cpp.o"
+},
+{
+  "directory": "/home/egogoboy/my_projects/RayTracer/build/geometry",
+  "command": "/usr/bin/c++  -I/home/egogoboy/my_projects/RayTracer/util -I/home/egogoboy/my_projects/RayTracer/geometry -I/home/egogoboy/my_projects/RayTracer/contrib/catch  -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/test_raytracer_geom.dir/test.cpp.o -c /home/egogoboy/my_projects/RayTracer/geometry/test.cpp",
+  "file": "/home/egogoboy/my_projects/RayTracer/geometry/test.cpp",
+  "output": "geometry/CMakeFiles/test_raytracer_geom.dir/test.cpp.o"
+},
+{
+  "directory": "/home/egogoboy/my_projects/RayTracer/build/reader",
+  "command": "/usr/bin/c++ -DTASK_DIR=\\\"/home/egogoboy/my_projects/RayTracer/reader/\\\" -I/home/egogoboy/my_projects/RayTracer/util -I/home/egogoboy/my_projects/RayTracer/reader -I/home/egogoboy/my_projects/RayTracer/reader/../raytracer-geom -I/home/egogoboy/my_projects/RayTracer/contrib/catch  -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/test_raytracer_reader.dir/test.cpp.o -c /home/egogoboy/my_projects/RayTracer/reader/test.cpp",
+  "file": "/home/egogoboy/my_projects/RayTracer/reader/test.cpp",
+  "output": "reader/CMakeFiles/test_raytracer_reader.dir/test.cpp.o"
+},
+{
+  "directory": "/home/egogoboy/my_projects/RayTracer/build/raytracer",
+  "command": "/usr/bin/c++ -DTASK_DIR=\\\"/home/egogoboy/my_projects/RayTracer/raytracer/\\\" -I/home/egogoboy/my_projects/RayTracer/util -I/home/egogoboy/my_projects/RayTracer/raytracer -I/home/egogoboy/my_projects/RayTracer/raytracer/../raytracer-geom -I/home/egogoboy/my_projects/RayTracer/raytracer/../raytracer-reader -I/home/egogoboy/my_projects/RayTracer/contrib/catch  -Wall -Wextra -Wpedantic -g -std=gnu++17 -o CMakeFiles/test_raytracer.dir/test.cpp.o -c /home/egogoboy/my_projects/RayTracer/raytracer/test.cpp",
+  "file": "/home/egogoboy/my_projects/RayTracer/raytracer/test.cpp",
+  "output": "raytracer/CMakeFiles/test_raytracer.dir/test.cpp.o"
+}
+]

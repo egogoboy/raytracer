@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -g CMakeFiles/test_raytracer_reader.dir/test.cpp.o -o ../test_raytracer_reader  ../libcontrib_catch_main.a 

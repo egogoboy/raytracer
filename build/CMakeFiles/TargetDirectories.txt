@@ -1,0 +1,16 @@
+/home/egogoboy/my_projects/RayTracer/build/CMakeFiles/contrib_catch_main.dir
+/home/egogoboy/my_projects/RayTracer/build/CMakeFiles/test-all.dir
+/home/egogoboy/my_projects/RayTracer/build/CMakeFiles/edit_cache.dir
+/home/egogoboy/my_projects/RayTracer/build/CMakeFiles/rebuild_cache.dir
+/home/egogoboy/my_projects/RayTracer/build/debug/CMakeFiles/test_raytracer_debug.dir
+/home/egogoboy/my_projects/RayTracer/build/debug/CMakeFiles/edit_cache.dir
+/home/egogoboy/my_projects/RayTracer/build/debug/CMakeFiles/rebuild_cache.dir
+/home/egogoboy/my_projects/RayTracer/build/geometry/CMakeFiles/test_raytracer_geom.dir
+/home/egogoboy/my_projects/RayTracer/build/geometry/CMakeFiles/edit_cache.dir
+/home/egogoboy/my_projects/RayTracer/build/geometry/CMakeFiles/rebuild_cache.dir
+/home/egogoboy/my_projects/RayTracer/build/reader/CMakeFiles/test_raytracer_reader.dir
+/home/egogoboy/my_projects/RayTracer/build/reader/CMakeFiles/edit_cache.dir
+/home/egogoboy/my_projects/RayTracer/build/reader/CMakeFiles/rebuild_cache.dir
+/home/egogoboy/my_projects/RayTracer/build/raytracer/CMakeFiles/test_raytracer.dir
+/home/egogoboy/my_projects/RayTracer/build/raytracer/CMakeFiles/edit_cache.dir
+/home/egogoboy/my_projects/RayTracer/build/raytracer/CMakeFiles/rebuild_cache.dir
